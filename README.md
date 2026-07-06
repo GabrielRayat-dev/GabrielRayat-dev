@@ -1,10 +1,10 @@
 ### Hi, I'm Gabriel 👋
 
 - 🤓 Computer Science student, dev in the making.
-- 💻 Right now we're building a **Dental Clinic Management System** — a public landing page, appointment scheduling for patients and admins, and a dentist dashboard with full CRUD functionality.
+- 💻 Right now we're building a **Dental Clinic Management System**. a public landing page, appointment scheduling for patients and admins, and a dentist dashboard with full CRUD functionality.
 - 🌱 Always learning and looking to sharpen my skills through real projects, not just coursework.
 - 🤝 Open to collaborating on projects involving web development, healthcare tech, or productivity tools.
-- 📸 Outside of code, I'm into photography — you can check out my shots on [Instagram](https://www.instagram.com/gabrielv_r01/).
+- 📸 Outside of code, I'm into photography, you can check out my shots on [Instagram](https://www.instagram.com/gabrielv_r01/).
 - 📫 Reach me at [gabrielrayatofficial@gmail.com](mailto:gabrielrayatofficial@gmail.com)
 
 ---
