@@ -6,7 +6,6 @@
 - 🤝 Open to collaborating on projects involving web development, healthcare tech, or productivity tools.
 - 📸 Outside of code, I'm into photography, you can check out my shots on [Instagram](https://www.instagram.com/gabrielv_r01/).
 - 📫 Reach me at [gabrielrayatofficial@gmail.com](mailto:gabrielrayatofficial@gmail.com)
-- </GR> My Portfolio : https://portfolio-gabriel-rayat.vercel.app
 
 ---
 
