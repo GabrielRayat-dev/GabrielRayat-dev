@@ -25,8 +25,8 @@ Building a **Dental Clinic Management System** — I handled the backend (bookin
 ### 📊 stats
 
 <div align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GabrielRayat-dev&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabrielRayat-dev&layout=compact&theme=dracula&hide_border=true" height="165"/>
+<!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GabrielRayat-dev&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabrielRayat-dev&layout=compact&theme=dracula&hide_border=true" height="165"/> -->
 </div>
 <div align="center">
 
