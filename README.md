@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Jan+Gabriel+Rayat;CS+Student+%E2%80%94+Los+Ba%C3%B1os%2C+PH)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Jan+Gabriel+Rayat;BSCS+Student+%E2%80%94+Los+Ba%C3%B1os%2C+PH)
 
 </div>
 
