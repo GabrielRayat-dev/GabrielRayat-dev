@@ -34,8 +34,6 @@ Building a **Dental Clinic Management System** — I handled the backend (bookin
 
 </div> -->
 
----
-
 ### 🐍 contribution snake
 
 <div align="center">
