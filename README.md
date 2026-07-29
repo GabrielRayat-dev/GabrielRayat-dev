@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Jan+Gabriel+Rayat;CS+Student+%E2%80%94+Los+Ba%C3%B1os%2C+PH;Building+the+Dental+Clinic+System)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Jan+Gabriel+Rayat;CS+Student+%E2%80%94+Los+Ba%C3%B1os%2C+PH)
 
 </div>
 
@@ -8,8 +8,7 @@
 
 ### 🧠 currently
 
-Building a **Dental Clinic Management System** — booking flow, admin panel, dentist dashboard with real CRUD.
-Learning distributed systems next. Open to web dev / healthcare tech / productivity tool collabs.
+Building a **Dental Clinic Management System** — I handled the backend (booking flow logic, admin panel, dentist dashboard with real CRUD); frontend built by a teammate. Learning distributed systems next. Open to web dev / healthcare tech / productivity tool collabs.
 
 ---
 
